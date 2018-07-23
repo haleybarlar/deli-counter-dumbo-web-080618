@@ -7,7 +7,5 @@ def line(katz_line)
     i = 0
     newArray.push(" #{i + 1}. #{katz_line.count[i]}")
   end
-  
-  end
   puts "The line is currently: #{newArray}"
 end
