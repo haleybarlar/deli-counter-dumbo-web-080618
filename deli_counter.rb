@@ -3,5 +3,7 @@ def line(katz_line)
     puts "The line is currently empty."
   else
     message = "The line is currently:"
+    
+    katz_line.each 
 end
   end
