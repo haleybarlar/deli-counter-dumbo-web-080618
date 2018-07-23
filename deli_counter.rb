@@ -1,5 +1,4 @@
 def line(katz_line)
-  var newArray = []
   if katz_line.length == 0
     puts "The line is currently empty."
   end
