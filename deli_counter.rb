@@ -10,3 +10,8 @@ def line(katz_line)
   puts "#{message}"
   end 
 end 
+
+def take_a_number(katz_line, name)
+  katz_line.push(name)
+  puts "Welcome, #{name}. You are number #{katz_line.length} in line."
+end
