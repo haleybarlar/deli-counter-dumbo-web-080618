@@ -7,5 +7,7 @@ def line(katz_line)
       i++
     end
     puts "The line is currently: #{newArray.join(" ")}"
+  else
+    
 end
   end
