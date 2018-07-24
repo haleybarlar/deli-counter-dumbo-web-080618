@@ -10,3 +10,4 @@ def line(katz_line)
     puts "The line is currently empty."
 end
 end
+end
