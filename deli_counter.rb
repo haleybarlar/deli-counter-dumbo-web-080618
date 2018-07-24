@@ -5,5 +5,6 @@ def line(katz_line)
     katz_line.each do |name|
       newArray.push(#{i}. {name})
       i++
+    end
 end
   end
