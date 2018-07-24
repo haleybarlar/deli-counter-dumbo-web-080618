@@ -22,4 +22,3 @@ def now_serving(katz_line)
   else 
     puts "Currently serving #{katz_line.shift()."
   end
-end 
