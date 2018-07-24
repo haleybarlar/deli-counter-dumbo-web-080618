@@ -8,6 +8,6 @@ def line(katz_line)
     end
     puts "The line is currently: #{newArray.join(" ")}"
   else
-    
+    puts "The line is currently empty."
 end
   end
