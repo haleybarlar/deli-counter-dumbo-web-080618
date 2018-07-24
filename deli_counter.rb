@@ -5,6 +5,6 @@ def line(katz_line)
     message = "The line is currently:"
     
     katz_line.each do |value, i|
-      message += 
+      message += " "
 end
   end
