@@ -3,6 +3,6 @@ def line(katz_line)
     newArray = []
     i = 0
     katz_line.each do |name|
-      
+      newArray.push()
 end
   end
