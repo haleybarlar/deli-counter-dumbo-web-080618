@@ -6,5 +6,6 @@ def line(katz_line)
       newArray.push(#{i}. {name})
       i++
     end
+    puts "The line is currently: #{newArray.join(" ")}"
 end
   end
